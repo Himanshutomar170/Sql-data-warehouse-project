@@ -102,5 +102,7 @@ data-warehouse-project/
 '''
 ## 🛡️ License
 
-This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
+## 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Himanshu%20Tomar-blue)](https://www.linkedin.com/in/himanshu-tomar-b297a3187)
